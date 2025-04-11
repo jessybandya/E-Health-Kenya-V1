@@ -14,10 +14,14 @@ An intelligent, AI-powered hospital management system that automatically assigns
 
 
 
+📁 **Kindly Note**:  
+The full system code is not publicly accessible to protect the integrity and confidentiality of the project. However, I am happy to grant access upon request—please share your email or GitHub username for an invite.
 
+To demonstrate transparency and functionality, I’ve provided:
+- A **live working version** of the system
+- **Super Admin login credentials** so you can fully explore the platform, create test accounts, and interact with every role-based dashboard.
 
-📁 **Kindly Note**: I cannot share the whole system code publically unless one gives me emails/usernames to invite them, thank you for understanding :)
-
+Thank you for your understanding and interest in this project!
 
 
 ---

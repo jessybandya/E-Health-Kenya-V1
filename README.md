@@ -6,6 +6,10 @@
 - **Email**: jessy.bandya5@gmail.com  
 - **Password**: 87654321
 
+
+🔗 **Demo Video**: [Link](https://unsa-feng.uonbi.ac.ke/backend/storage/media/images/20250411-2019-07.3252762.mp4)  
+
+
 An intelligent, AI-powered hospital management system that automatically assigns patients to doctors based on arrival time and urgency level. Designed to enhance healthcare delivery in Kenya, the system includes role-based dashboards and GPT-powered support.
 
 📁 **GitHub Repo**: [github.com/jessybandya/E-Health-Kenya-V1](https://github.com/jessybandya/E-Health-Kenya-V1)

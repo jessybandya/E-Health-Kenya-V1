@@ -12,7 +12,13 @@
 
 An intelligent, AI-powered hospital management system that automatically assigns patients to doctors based on arrival time and urgency level. Designed to enhance healthcare delivery in Kenya, the system includes role-based dashboards and GPT-powered support.
 
-📁 ## **Kindly Note**: I cannot share the whole system code publically unless one gives me emails/usernames to invite them, thank you for understanding :)
+
+
+
+
+📁 **Kindly Note**: I cannot share the whole system code publically unless one gives me emails/usernames to invite them, thank you for understanding :)
+
+
 
 ---
 
